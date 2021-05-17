@@ -16,3 +16,8 @@ Execution steps:
     1. init_node = (6,7), goal_node = (34,30), iterations = 2500 - fig1
     2. init_node = (2,4), goal_node = (34,38), iterations = 5000 - fig2
     3. init_node = (3,3), goal_node = (11,15), iterations = 400 -  fig3
+
+Reference:
+
+1. [Source code]-https://gist.github.com/Fnjn/58e5eaa27a3dc004c3526ea82a92de80
+2. https://en.wikipedia.org/wiki/Rapidly-exploring_random_tree
